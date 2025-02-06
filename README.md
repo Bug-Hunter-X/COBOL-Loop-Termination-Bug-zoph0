@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in a COBOL program involving loop termination. The initial code contains a logic error where the loop condition isn't correctly handling the upper bound, resulting in an infinite loop. The solution provides a corrected version with explanation.
